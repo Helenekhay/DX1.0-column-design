@@ -1,8 +1,6 @@
 @media screen and (max-width:600px) { 
     
-    body{
-        background: black;
-    }
+    
 /* ===== First section starts here===== */
 
 .firstection {
@@ -28,7 +26,7 @@
 
 }
 
-.headind {
+.heading {
     font-size: 25px;
 }
 
