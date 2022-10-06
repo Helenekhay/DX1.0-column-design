@@ -1,0 +1,47 @@
+@media screen and (max-width:600px) { 
+    
+    body{
+        background: black;
+    }
+/* ===== First section starts here===== */
+
+.firstection {
+    height: 520px;
+
+}
+
+.firstsection-leftdiv {
+    width: 60%;
+}
+
+.firstsection-rightdiv{
+    width: 40%;
+
+}
+
+.link-holder{
+    flex-direction: column;
+    padding-left: 40px;
+}
+.link-holder h4{
+    margin-bottom: 20px;
+
+}
+
+.headind {
+    font-size: 25px;
+}
+
+.firstsection-leftdiv p {
+    font-size: 16px;
+
+}
+.line {
+    width: 200px;
+}
+/* ===== First section starts here===== */
+}
+
+
+
+    
