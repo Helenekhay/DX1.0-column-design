@@ -53,6 +53,7 @@
 /* ===== Second section ends here===== */
 
 }
+/* ===== Third section starts here===== */
 
 .thirddiv{
     flex-direction: column-reverse;
@@ -60,7 +61,24 @@
 
 }
 
+/* ===== Third section ends here===== */
 
+
+/* ===== footer section starts here===== */
+
+footer{
+    flex-direction: column;
+    padding: 10px 0;
+    text-align: center; 
+}
+
+.footericons-container{
+    margin: 10px;
+      
+ 
+
+}
+/* ===== footer section ends here===== */
 
 
 

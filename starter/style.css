@@ -17,12 +17,15 @@ img{
 }
 /* ==== Common Fix ends here==== */
 
+
 /* ===== First section starts here===== */
 
 .firstsection{
     height: 460px;
     /* border: 3px solid black; */
     display: flex;
+    
+
 }
 .firstsection-leftdiv{
     padding: 20px;
@@ -147,13 +150,44 @@ span {
 .thirddiv-rightdiv p{
     margin-bottom: 20px;
 
+}
 
+/* ===== Third section starts here===== */
+
+
+<!-- /* ===== footer section starts here===== */ -->
+
+footer{
+    background: var(--main-color);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px 0;
+    color: var(--white-color);
 
 }
 
+.footericons-container{
+    /* border: 3px solid black; */
+    font-size: 22px;
+    
+}
 
+.footer-icons{
+    margin: 0 5px
+    
+}
+a{
+    color: var(--white-color);
+    text-decoration: none;
 
+}
+<!-- /* ===== footer section ends here===== */ -->
 
-
-
-/* ===== Third section starts here===== */
+.firstsection,
+.secondsection,
+.thirddiv,
+footer{
+    max-width: 1500px;
+    margin: 0 auto;
+}
