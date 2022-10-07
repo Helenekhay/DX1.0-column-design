@@ -54,6 +54,11 @@
 
 }
 
+.thirddiv{
+    flex-direction: column-reverse;
+    background: var(--gray-color);
+
+}
 
 
 

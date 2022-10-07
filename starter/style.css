@@ -80,6 +80,7 @@ span {
     justify-content: center;
     padding: 50px 0;
     flex-wrap: wrap;
+    
 
 
 }
@@ -93,6 +94,8 @@ span {
 }
 .secondsection-leftdiv h4{
     margin-bottom: 20px;
+    text-align: center;
+
 }
 
 .secondsection-leftdiv p{
@@ -105,8 +108,52 @@ span {
     width: 340px;
     /* border: 3px solid purple; */
     margin-left: 20px;
+    
    
 }
 
+/* ===== Third section starts here===== */
 
-/* ===== Second section ends here===== */
+.thirddiv{
+    /* border: 3px solid tomato; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+
+}
+
+.thirddiv-leftdiv, 
+.thirddiv-rightdiv{
+ height: 460px;
+ width: 340px;
+}
+
+
+.thirddiv-leftdiv{
+    /* border: 3px solid black; */
+    background: url("images/image3.jpg");
+    background-size: cover;
+}
+/* .thirddiv-leftdiv img */
+
+.thirddiv-rightdiv{
+    /* border: 3px solid purple; */
+    background: var(--main-color);
+    padding: 40px 25px;
+
+}
+
+.thirddiv-rightdiv p{
+    margin-bottom: 20px;
+
+
+
+}
+
+
+
+
+
+
+/* ===== Third section starts here===== */
