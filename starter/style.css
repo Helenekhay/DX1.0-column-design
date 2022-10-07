@@ -84,8 +84,6 @@ span {
     padding: 50px 0;
     flex-wrap: wrap;
     
-
-
 }
 
 .secondsection-leftdiv{
@@ -104,7 +102,7 @@ span {
 .secondsection-leftdiv p{
     margin-bottom: 10px;
 
-}
+} 
 
 .secondsection-rightdiv{
     height: 460px;
@@ -115,7 +113,7 @@ span {
    
 }
 
-/* ===== Third section starts here===== */
+ /* ===== Third section starts here===== */
 
 .thirddiv{
     /* border: 3px solid tomato; */
@@ -188,6 +186,6 @@ a{
 .secondsection,
 .thirddiv,
 footer{
-    max-width: 1500px;
+    max-width: 1200px;
     margin: 0 auto;
 }
